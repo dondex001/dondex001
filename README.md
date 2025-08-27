@@ -3,8 +3,9 @@
 <a href="https://www.linkedin.com/in/donald-kalu-35604b375/">
   <img src="https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<img src="./assets/linkedin-badge.svg)](https://www.linkedin.com/in/donald-kalu-35604b375/"/>
 
-  
+
 
 ## 🔐 About Me  
 I am an aspiring cybersecurity professional with strong problem-solving skills, curiosity, and a commitment to continuous learning. Guided by confidentiality, trust, and accountability, I am passionate about protecting people and organizations, mitigating risks, and ensuring resilience against evolving cyber threats.
