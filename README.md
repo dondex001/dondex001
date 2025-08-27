@@ -44,10 +44,16 @@ To develop hands-on skills in cybersecurity and grow into a **SOC Tier 1 Analyst
 
 ---
 
-## 🚀 Projects (coming soon)  
-- Assignment Project 1 (to be added later)  
+## 🚀 Projects
+
+- ToyNest LTD Security Audit Project
+A comprehensive cybersecurity audit conducted for **ToyNest LTD**, focusing on assessing security controls, compliance with industry standards, and identifying potential risks.
+
+   🔗 [View the project repository](https://github.com/dondex001/Security-audit)
+
 - Assignment Project 2 (to be added later)  
+- Assignment Project 3 (to be added later)  
 
 ---
 
-✨ Always learning, always building towards a career in cybersecurity.  
+✨ Always learning, always building towards a career in cybersecurity.
