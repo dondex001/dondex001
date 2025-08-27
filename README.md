@@ -7,8 +7,7 @@
   
 
 ## 🔐 About Me  
-I am a **Computer Engineering student at Abia State University** with a growing passion for **cybersecurity** and technology.  
-I am currently taking the **Google Cybersecurity Certificate** as my first step into building a strong foundation in security operations and defense.  
+I am an aspiring cybersecurity professional with strong problem-solving skills, curiosity, and a commitment to continuous learning. Guided by confidentiality, trust, and accountability, I am passionate about protecting people and organizations, mitigating risks, and ensuring resilience against evolving cyber threats.
 
 ---
 
