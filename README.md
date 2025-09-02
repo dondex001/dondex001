@@ -51,7 +51,11 @@ A comprehensive cybersecurity audit conducted for **ToyNest LTD**, focusing on a
 
    🔗 [View the project repository](https://github.com/dondex001/Security-audit)
 
-- Assignment Project 2 (to be added later)  
+- Incident Report Analysis  
+A structured cybersecurity incident analysis of a DDoS attack on a multimedia company, documented using the **NIST Cybersecurity Framework (CSF)**. The report highlights the impact, response actions, and long-term security improvements.  
+
+   🔗 [View the project report](https://github.com/dondex001/incident-report-analysis)
+
 - Assignment Project 3 (to be added later)  
 
 ---
