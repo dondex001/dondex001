@@ -56,7 +56,11 @@ A structured cybersecurity incident analysis of a DDoS attack on a multimedia co
 
    🔗 [View the project report](https://github.com/dondex001/incident-report-analysis)
 
-- Assignment Project 3 (to be added later)  
+- **File Permissions Management**  
+A structured cybersecurity project demonstrating the configuration and management of **Linux file permissions** to enforce secure access control. The report highlights best practices, common misconfigurations, and the application of the **Principle of Least Privilege (PoLP)**.  
+
+   🔗 [View the project report](https://github.com/dondex001/file-permissions-management)
+
 
 ---
 
