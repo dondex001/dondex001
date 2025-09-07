@@ -56,6 +56,12 @@ A structured cybersecurity incident analysis of a DDoS attack on a multimedia co
 
    🔗 [View the project report](https://github.com/dondex001/incident-report-analysis)
 
+- **SQL Filtering Queries**  
+A project demonstrating how SQL queries can filter specific information from datasets like login attempts and employee details. The project covers `WHERE`, `AND`, `OR`, `NOT`, and `LIKE` operators.  
+
+   🔗 [View the project](https://github.com/dondex001/SQL-security-filters)
+
+
 - **File Permissions Management**  
 A structured cybersecurity project demonstrating the configuration and management of **Linux file permissions** to enforce secure access control. The report highlights best practices, common misconfigurations, and the application of the **Principle of Least Privilege (PoLP)**.  
 
