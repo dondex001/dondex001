@@ -68,6 +68,12 @@ A structured cybersecurity project demonstrating the configuration and managemen
    🔗 [View the project report](https://github.com/dondex001/file-permissions-management)
 
 
+- **Database Security & Vulnerability Assessment**  
+A structured cybersecurity project focused on assessing and improving the security posture of a centralized **database server**. The report evaluates access controls, identifies potential risks, and recommends mitigation strategies aligned with **NIST SP 800-30 Rev. 1** guidelines.  
+
+   🔗 [View the project repository](https://github.com/dondex001/Vulnerability-assessment-report)
+
+
 ---
 
 ✨ Always learning, always building towards a career in cybersecurity.
