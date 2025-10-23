@@ -16,12 +16,15 @@ To develop hands-on skills in cybersecurity and grow into a **SOC Tier 1 Analyst
 
 ## 🛠️ Skills (in progress)  
 
-| Skill                                         | Associated Project       |
-|-----------------------------------------------|--------------------------|
-| SIEM Implementation and Log Analysis          | Coming soon              |
-| Network Traffic Monitoring and Attack Detection | Coming soon              |
-| Security Automation                          | Coming soon              |
-| Incident Response Planning and Execution      | Coming soon              |
+| Skill | Description / Associated Project |
+|--------|----------------------------------|
+| SIEM Implementation & Log Analysis | Splunk & Chronicle log analysis (Google Cybersecurity Labs) |
+| Network Traffic Monitoring & Attack Detection | Wireshark & Suricata packet inspection |
+| Vulnerability Assessment & Risk Management | [Database Security & Vulnerability Assessment](https://github.com/dondex001/Vulnerability-assessment-report) |
+| Linux System Hardening | [File Permissions Management](https://github.com/dondex001/file-permissions-management) |
+| Incident Response & Reporting | [Incident Handler’s Journal](https://github.com/dondex001/incident-handlers-journal) |
+| SQL Security Filtering | [SQL Filtering Queries](https://github.com/dondex001/SQL-security-filters) |
+| Security Automation | [Allowlist Update Automation](https://github.com/dondex001/automated-ip-access-control) |
 
 ---
 
