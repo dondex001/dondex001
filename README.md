@@ -28,19 +28,22 @@ To develop hands-on skills in cybersecurity and grow into a **SOC Tier 1 Analyst
 ## 🧰 Tools (learning & practicing)  
 
 **Network**  
-- Wireshark (beginner level)  
+- Wireshark
+- tcpdump
+- Suricata
 
 **SIEM**  
-- Splunk (in progress)  
-- ELK Stack *(planned)*  
+- Splunk  
+- Chronicle
 
 **General**  
 - Linux CLI  
 - SQL
+- Python
 ---
 
 ## 📜 Certifications  
-- [Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/) *(in progress)*  
+- [Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/)  
 
 ---
 
@@ -79,6 +82,11 @@ A structured cybersecurity journal entry documenting a ransomware attack initiat
 
    🔗 [View the project](https://github.com/dondex001/incident-handlers-journal)
 
+
+- **Allowlist Update Automation**                                                                                                                                                          
+A Python-based automation script designed to maintain and update an IP address allow list efficiently. The algorithm reads IPs from an `allow_list.txt` file, removes those found in a predefined `remove_list`, and rewrites the updated list back into the file. This ensures only approved IP addresses remain in the allow list while simplifying the file management process.  
+
+   🔗 [View the project](https://github.com/dondex001/automated-ip-access-control)
 
 
 ---
