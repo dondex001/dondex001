@@ -18,6 +18,7 @@ To develop hands-on skills in cybersecurity and grow into a **SOC Tier 1 Analyst
 
 | Skill | Description / Associated Project |
 |--------|----------------------------------|
+| SOC Automation & Alert Triage Pipeline | [Home SOC Lab](https://github.com/dondex001/soc-homelab) (Wazuh → TheHive, Cortex, OPNsense) |
 | SIEM Implementation & Log Analysis | Splunk & Chronicle log analysis (Google Cybersecurity Labs) |
 | Network Traffic Monitoring & Attack Detection | Wireshark & Suricata packet inspection |
 | Vulnerability Assessment & Risk Management | [Database Security & Vulnerability Assessment](https://github.com/dondex001/Vulnerability-assessment-report) |
@@ -39,6 +40,14 @@ To develop hands-on skills in cybersecurity and grow into a **SOC Tier 1 Analyst
 - Splunk  
 - Chronicle
 
+**SOC Home Lab**  
+- Wazuh  
+- TheHive & Cortex  
+- MISP  
+- OPNsense  
+- Docker  
+- VirtualBox
+
 **General**  
 - Linux CLI  
 - SQL
@@ -51,6 +60,12 @@ To develop hands-on skills in cybersecurity and grow into a **SOC Tier 1 Analyst
 ---
 
 ## 🚀 Projects
+
+- **Home SOC Lab**  
+A virtual SOC built in VirtualBox: an OPNsense high-availability firewall pair (CARP) with multi-WAN failover, a Wazuh SIEM with Windows and Ubuntu agents, and a TheHive, Cortex and MISP stack in Docker. Wazuh alerts flow automatically into TheHive for triage. Includes setup notes, screenshots and a troubleshooting log.  
+
+   🔗 [View the project repository](https://github.com/dondex001/soc-homelab)
+
 
 - ToyNest LTD Security Audit Project
 A comprehensive cybersecurity audit conducted for **ToyNest LTD**, focusing on assessing security controls, compliance with industry standards, and identifying potential risks.
